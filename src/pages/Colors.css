@@ -1,0 +1,29 @@
+.container {
+    padding        : 0 10px;
+    display        : flex;
+    flex-direction : column;
+    justify-content: center;
+}
+
+.top-container {
+    display        : flex;
+    align-items    : center;
+    justify-content: space-between;
+}
+
+.title {
+    margin: 8px;
+}
+
+.mainTitle {
+    text-align: center;
+    margin    : 0;
+    font-size : 35px;
+}
+
+.subTitle {
+    text-align   : center;
+    margin       : 0;
+    font-size    : 16px;
+    margin-bottom: 20px;
+}
